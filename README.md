@@ -44,5 +44,8 @@ lojas online como a Udemy, não vende cursos mas sim o conteúdo de estudo e con
 - Plano de negócio
 - ROI (Return on Investment)
 
+## Entrega 1
 
+- <a href="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/blob/main/Canvas/ProjectModelCanvasA1.pdf">Product Model Canvas</a>
+- <a href="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/tree/main/Persona">Personas</a>
 
