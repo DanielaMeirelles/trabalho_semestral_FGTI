@@ -1,18 +1,11 @@
 ## Descrição
 <p>A descrição de 3 Personas diferentes que evidenciem
 agrupamentos de perfis de usuários que tenham interesse no produto ou
-serviço de TI sob desenvolvimento. Para orientá-los em relação à criação de
-Personas, segue abaixo os itens fundamentais da descrição dos mesmos.</p>
+serviço de TI sob desenvolvimento.</p>
 
-<p>A descrição das Personas deverá contemplar:</p>
-
-- Nome
-- Cargo/Função
-- Empresa (empresa onde o Persona atua, caso haja – pode ser fictícia)
-- Gênero
-- Formação/Educação
-- Mídias (usadas pelo Persona descrito)
-- Objetivos (orientem-se por alguns dos benefícios e requisitos do PMC)
-- Desafios (dificuldades e problemas enfrentados pelo Persona descrito)
-- Como a empresa pode ajudá-lo (como o produto ou serviço do grupo pode atender os objetivos do Persona)
-- Foto (conforme gênero definido)
+### Persona 1
+<a href="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/blob/main/Persona/Persona%201.pdf">Clique aqui</a>
+### Persona 2
+<a href="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/blob/main/Persona/Persona%202.pdf">Clique aqui</a>
+### Persona 3
+<a href="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/blob/main/Persona/Persona%203.pdf">Clique aqui</a>
