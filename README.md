@@ -5,17 +5,13 @@
 <p>Matéria: Fundamentos de Gestão da Tecnologia da Informação</p>
 
 ## Objetivo
-Desenvolver um site para venda de conteúdo acadêmico, considerando sua elaboração para atender o ciclo completo, até a venda, 
-de acordo com os requisitos exigidos pelo cliente. 
-
+Desenvolver um site para venda de conteúdo acadêmico, considerando sua elaboração para atender o ciclo completo, até a venda, de acordo com os requisitos exigidos pelos nossos clientes.
 
 ### Descritivo do Projeto
-Para o Prof. Antonio Egydio, que deseja vender conteúdos acadêmicos, o SharEduca é um site de vendas de 	
-vídeos e documentos que possuí uma aparencia simples e intuitiva para disponibilizar seus produtos. Diferente de outras 	
-lojas online como a Udemy, não vende cursos mas sim o conteúdo de estudo e consulta, que pode ser usado sem complicações. 
+<img src="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/blob/main/642b3279307d4d0ea11d95da3eaa8e5b.png" align=center>
+Para os Professores de toda a rede de ensino, que desejam organizar e vender conteúdos acadêmicos, podendo se preferir, diponibilizar para seus alunos, a plataforma web EducaMais é um site de vendas de vídeos e documentos que possuí uma aparencia simples e intuitiva para disponibilizar seus produtos. Diferente de outras plataformas de conteúdo acadêmico, não vende cursos mas sim o conteúdo de estudo e consulta, que pode ser usado sem complicações.
 
-
-### Requisitos do Cliente
+### Requisitos do Sistema
 - Layout Página inicial
 - Conteúdos:
   - Inglês PDF- Teoria;
@@ -30,6 +26,7 @@ lojas online como a Udemy, não vende cursos mas sim o conteúdo de estudo e con
   - Arquitetura e Organização de Computadores- CPU;
   - Lógica de Programação- Introdução- O que é lógica de programação?;
   - Lógica de Programação- O que é um algoritmo?;
+  - e muito mais...
 - Layout do contato
 - Layout Login
 - Funções do Carrinho de Compras
