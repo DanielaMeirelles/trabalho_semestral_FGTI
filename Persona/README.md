@@ -5,12 +5,12 @@ serviço de TI sob desenvolvimento.</p>
 
 ## Persona 1
 
-<img src="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/blob/main/Persona/Persona%201.png" width="700" height="850" align="center"/>
+<img src="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/blob/main/Persona/Persona%20Ana.png" width="700" height="850" align="center"/>
 
 ## Persona 2
 
-<img src="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/blob/main/Persona/Persona%202.png" width="700" height="850" align="center"/>
+<img src="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/blob/main/Persona/Persona%20Carla.png" width="700" height="850" align="center"/>
 
 ## Persona 3
 
-<img src="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/blob/main/Persona/Persona%203.png" width="700" height="850" align="center"/>
+<img src="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/blob/main/Persona/Persona%20Carlos.png" width="700" height="850" align="center"/>
