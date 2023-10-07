@@ -4,42 +4,39 @@
 <p>FATEC de São José dos Campos - Professor Jessen Vidal - 2023/2</p>
 <p>Matéria: Fundamentos de Gestão da Tecnologia da Informação</p>
 
-## Objetivo
-Desenvolver um site para venda de conteúdo acadêmico, considerando sua elaboração para atender o ciclo completo, até a venda, de acordo com os requisitos exigidos pelos nossos clientes.
+## Escopo do Produto
+O objetivo deste projeto é desenvolver uma plataforma web chamada EducaMais, que visa atender às necessidades dos professores e educadores que desejam organizar e vender conteúdos acadêmicos. A plataforma oferecerá uma interface simples e intuitiva para a disponibilização e venda de vídeos e documentos de estudo e consulta.
 
-### Descritivo do Projeto
+### Motivação
+A motivação por trás deste projeto é proporcionar uma solução diferenciada para professores que desejam compartilhar seu conhecimento e materiais educacionais com seus alunos e outros interessados. A EducaMais se destaca por sua abordagem direta na venda de conteúdo, sem a necessidade de cursos completos.
+
+### Objetivo
 <img src="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/blob/main/642b3279307d4d0ea11d95da3eaa8e5b.png" align="center"/>
-Para os Professores de toda a rede de ensino, que desejam organizar e vender conteúdos acadêmicos, podendo se preferir, diponibilizar para seus alunos, a plataforma web EducaMais é um site de vendas de vídeos e documentos que possuí uma aparencia simples e intuitiva para disponibilizar seus produtos. Diferente de outras plataformas de conteúdo acadêmico, não vende cursos mas sim o conteúdo de estudo e consulta, que pode ser usado sem complicações.
+O principal objetivo deste projeto é criar a EducaMais, uma plataforma que permita aos professores compartilhar, vender e disponibilizar conteúdo acadêmico de forma fácil e eficaz. Para alcançar esse objetivo, o projeto se dividirá em várias funcionalidades:
 
 ### Requisitos do Sistema
 - Layout Página inicial
-- Conteúdos:
-  - Inglês PDF- Teoria;
-  - Língua Portuguesa PDF- Pontuação;
-  - Inglês PDF- Exercícios;
-  - Língua Portuguesa PDF- Concordância;
-  - Matemática Discreta- Grafos e Lógica;
-  - Língua Portuguesa- Vídeos de concordância e pontuação;
-  - Laboratório de Hardware- Introdução ao Computador;
-  - Laboratório de Hardware- Componentes do computador;
-  - Arquitetura e Organização de Computadores- História;
-  - Arquitetura e Organização de Computadores- CPU;
-  - Lógica de Programação- Introdução- O que é lógica de programação?;
-  - Lógica de Programação- O que é um algoritmo?;
-  - e muito mais...
-- Layout do contato
-- Layout Login
-- Funções do Carrinho de Compras
-- Formas de Pagamento
-- Layout do conteúdo
-- Layout do carrinho de compras
-- Layout da empresa (Missão, Visão e Valores)
-- Implantação do banco de dados
-- Implementação do banco de dados
-- Teste de implantação do site 
-- Hospedagem e domínio 
-- Plano de negócio
-- ROI (Return on Investment)
+- Autenticação do usuário
+- Gestão de conteúdo (para adicionar, editar e excluir conteúdos)
+- Layout do Carrinho de Compras
+- Opções de Formas de Pagamento
+- Layout da Página de Conteúdo
+- Layout da Página da Empresa (Missão, Visão e Valores)
+- Pesquisa Avançada
+- Avaliações e Comentários
+- Recomendações Personalizadas
+- Sistema de Notificações
+- Sistema de Chat ou Suporte ao Cliente
+- Integração de mídias sociais
+- Gerenciamento de Usuários e Perfis
+- Segurança e Proteção de Dados
+- Suporte a Múltiplos Idiomas e Moedas
+
+Além disso, a implementação e teste do banco de dados estarão integrados às funcionalidades mensionadas acima, garantindo que a plataforma funcione de forma eficiente e segura.
+
+### Fora do Escopo do Produto
+- Hospedagem e aquisição de domínio não fazem parte dos requisitos da plataforma, mas são consideradas tarefas adicionais para serem tratadas separadamente.
+- Plano de negócio e cálculo de ROI (Return on Investment) são atividades que estão relacionadas à estratégia de negócios, mas não fazem parte dos artefatos de Planejamento, Monitoramento e Controle do projeto em si. Eles são tarefas posteriores à implementação da plataforma.
 
 ## Entrega 1
 
