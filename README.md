@@ -43,3 +43,7 @@ Além disso, a implementação e teste do banco de dados estarão integrados às
 - <a href="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/tree/main/Canvas">Product Model Canvas</a>
 - <a href="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/tree/main/Persona">Personas</a>
 
+## Entrega 2
+
+- <a href="">Product Backlog</a>
+- <a href="">User Story</a>
