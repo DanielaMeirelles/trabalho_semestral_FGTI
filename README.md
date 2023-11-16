@@ -47,3 +47,4 @@ Além disso, a implementação e teste do banco de dados estarão integrados às
 
 - <a href="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/tree/main/Product%20Backlog">Product Backlog</a>
 - <a href="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/tree/main/User%20Story">User Story</a>
+- <a href="https://github.com/DanielaMeirelles/trabalho_semestral_FGTI/tree/main/Sprints">Sprints</a>
